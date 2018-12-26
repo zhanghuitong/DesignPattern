@@ -1,5 +1,10 @@
 package singleton;
 
+/**
+ * 懒汉式单例
+ * @author HT
+ *
+ */
 public class Singleton {
 	//利用一个静态变量来记录Singleton类的唯一实例
 	private static Singleton uniqueInstance;
