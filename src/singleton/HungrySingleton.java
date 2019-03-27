@@ -2,7 +2,7 @@ package singleton;
 
 
 /**
- * ¶öººÊ½µ¥Àý
+ *
  * @author HT
  *
  */

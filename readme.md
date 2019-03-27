@@ -16,3 +16,9 @@
 
 
 
+
+##### 适配器模式
+Adapter类实现要转换为目的接口(Duck),在构造器中传入相应的
+原有类,在实现的方法中调用Turkey.gobble冒充Duck.quack方法
+
+
